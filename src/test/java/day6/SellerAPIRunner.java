@@ -1,6 +1,6 @@
 package day6;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import pojo.CustomResponse;
 import utilities.APIRunner;
 
