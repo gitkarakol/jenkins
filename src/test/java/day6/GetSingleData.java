@@ -5,7 +5,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import pojo.CustomResponse;
 import utilities.APIRunner;
 import utilities.Config;
